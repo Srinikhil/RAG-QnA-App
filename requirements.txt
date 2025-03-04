@@ -1,0 +1,11 @@
+langchain
+numpy
+streamlit
+langchain-community
+pyPDF2
+unstructured
+nltk
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+python-docx
